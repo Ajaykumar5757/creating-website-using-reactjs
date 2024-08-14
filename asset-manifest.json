@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/creating-website-using-reactjs/static/css/main.8a72a002.css",
+    "main.css": "/creating-website-using-reactjs/static/css/main.1afef009.css",
     "main.js": "/creating-website-using-reactjs/static/js/main.930c85bf.js",
     "index.html": "/creating-website-using-reactjs/index.html",
-    "main.8a72a002.css.map": "/creating-website-using-reactjs/static/css/main.8a72a002.css.map",
+    "main.1afef009.css.map": "/creating-website-using-reactjs/static/css/main.1afef009.css.map",
     "main.930c85bf.js.map": "/creating-website-using-reactjs/static/js/main.930c85bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a72a002.css",
+    "static/css/main.1afef009.css",
     "static/js/main.930c85bf.js"
   ]
 }
