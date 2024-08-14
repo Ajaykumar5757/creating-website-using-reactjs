@@ -1,0 +1,58 @@
+.content-table{
+    max-width: 900px;
+    margin:10px auto;
+    text-align: center;
+}
+
+.content-table table,tr,td,th{
+    border:5px solid rgb(118, 63, 0);
+    border-collapse: collapse;
+    font-size: 20px;
+}
+
+th{
+    background-color:rgb(140, 75, 0) ;
+    color:white;
+}
+
+td{
+    width:20%;
+}
+
+.content-form{
+    max-width: 400px;
+    margin:10px auto;
+    background-color: white;
+    padding:20px;
+}
+
+.content-form h1{
+    text-align: center;
+}
+
+.content-form label,input,button{
+    display: block;
+    margin-bottom: 15px;
+    margin-left: 30px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.content-form input{
+    width:80%;
+    padding:3px;
+}
+
+button{
+    margin-left:150px;
+    margin-top: 20px;
+    padding:10px 20px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(255, 208, 155);
+}
+
+button:hover{
+    background-color: rgb(103, 41, 0);
+    color:white;
+}

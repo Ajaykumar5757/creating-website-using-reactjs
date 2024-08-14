@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(245, 205, 152);
+}
+
+.header{
+    display: fixed;
+    background-color: rgb(132, 66, 0);
+    color:white;
+}
+
+.header-first{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-topic h1{
+    font-size: 35px;
+    padding-left:20px;
+}
+
+.header-list li{
+    display: inline;
+    margin-right: 25px;
+    font-weight: bold;
+}
+
+.header-list a{
+    text-decoration: none;
+    color:white;
+    font-size:30px;
+}
